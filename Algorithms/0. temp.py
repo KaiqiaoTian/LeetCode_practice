@@ -1,3 +1,11 @@
+"""
+Problem
+
+
+
+
+"""
+
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         i = 0
